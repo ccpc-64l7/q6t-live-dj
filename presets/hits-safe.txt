@@ -1,0 +1,32 @@
+# AutoEq PK Q=1.41 + Mixxx 3-band  17:39:25  AUTO
+Preamp: -0.50 dB
+Copy: M=0.5*L+0.5*R S=0.5*L+-0.5*R
+Copy: L=1.0*M+1.000*S R=1.0*M+-1.000*S
+Channel: L
+Preamp: 0.00 dB
+Channel: R
+Preamp: -0.00 dB
+Channel: all
+Filter: ON LSC Fc 105 Hz Gain -2.50 dB Q 0.70
+Filter: ON PK Fc 63 Hz Gain -2.50 dB Q 1.41
+Filter: ON PK Fc 125 Hz Gain -2.50 dB Q 1.41
+Filter: ON PK Fc 250 Hz Gain -2.50 dB Q 1.41
+Filter: ON PK Fc 500 Hz Gain -2.50 dB Q 1.41
+Filter: ON PK Fc 1000 Hz Gain -2.50 dB Q 1.41
+Filter: ON PK Fc 2000 Hz Gain 0.98 dB Q 1.41
+Filter: ON PK Fc 4000 Hz Gain 1.17 dB Q 1.41
+Filter: ON PK Fc 8000 Hz Gain 1.17 dB Q 1.41
+Filter: ON PK Fc 16000 Hz Gain 1.17 dB Q 1.41
+Filter: ON HSC Fc 10000 Hz Gain 1.17 dB Q 0.70
+Filter: ON LSC Fc 250 Hz Gain 4.00 dB Q 0.71
+Filter: ON PK Fc 63 Hz Gain 3.00 dB Q 1.20
+Filter: ON PK Fc 1000 Hz Gain 0.00 dB Q 0.71
+Filter: ON HSC Fc 4000 Hz Gain 0.00 dB Q 0.71
+Filter: ON LSC Fc 80 Hz Gain 2.24 dB Q 0.70
+Filter: ON HSC Fc 8000 Hz Gain 1.60 dB Q 0.70
+Copy: LE=L RE=R
+Channel: LE RE
+Preamp: -18 dB
+Delay: 5.8 ms
+Channel: all
+Copy: L=L+LE R=R+RE

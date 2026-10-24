@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+live_dj.log
+live_dj.err.log
+live_dj.fault.log
+live_dj.pid
+live_dj.prefs.json
+live_dj.status.json
+live_dj.stop
+live_dj.board.json
+live_dj.stop-diag
+diag.stop
+diag.log
