@@ -51,7 +51,7 @@ python live_dj.py stop
 
 The window opens in HOLD. LIVE DJ auto-EQ stays off until you turn it on. Startup reads the Windows HDMI volume and does not write it. A saved `hdmi_vol` in the prefs file is a record only.
 
-Runtime files (`live_dj.prefs.json`, `live_dj.log`, `live_dj.status.json`, the pid file) stay on the machine. They are not part of this repository.
+Runtime files (`live_dj.prefs.json`, `live_dj.log`, `live_dj.status.json`, the pid file) stay on the machine of the author . They are not part of this repository.
 
 ## Mixer
 
