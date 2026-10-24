@@ -1,7 +1,5 @@
 #!/usr/bin/env python3
-"""Watch the Q6T HDMI movie path. Owner: Christopher Patrick Urias. MIT License.
-
-Stdout is ACTION_REQUIRED / FAILED only.
+"""Watch the Q6T HDMI movie path. Stdout is ACTION_REQUIRED / FAILED only.
 
 Details go to watch_hdmi_cut.log next to this script.
 Catches: HDMI UNPLUGGED/NOTPRESENT, default stolen off EP-HDMI-RX,

@@ -1,6 +1,6 @@
 # DJ Lab
 
-**Owner: Christopher Patrick Urias.** Free and open source under the [MIT License](LICENSE). Use it, copy it, change it, and share it at no cost.
+Free and open source under the [MIT License](LICENSE). Use it, copy it, change it, and share it at no cost.
 
 Live mixer for a Samsung HW-Q60T soundbar. Stereo playback goes out the HDMI port. `live_dj.py` listens on the WASAPI loopback, and Equalizer APO applies the filters. The window is three channel strips: SUB, BAR, and MASTER.
 
@@ -10,23 +10,14 @@ The math is NumPy on the CPU. This program does not use the graphics card. There
 
 ## Author
 
-Christopher Patrick Urias wrote this program. He is a programmer and runs [CCPC Repair](https://ccpcrepair.com) in Tahlequah, Oklahoma.
-
-| | |
-|---|---|
-| Email | [bigcityrooster@gmail.com](mailto:bigcityrooster@gmail.com) |
-| GitHub | [ccpc-64l7](https://github.com/ccpc-64l7) |
-| ORCID | [0009-0006-1011-8135](https://orcid.org/0009-0006-1011-8135) |
-
-Certifications on the public record:
-
-- [Google IT Support Professional Certificate](https://www.credly.com/badges/de2e05bb-26d8-4066-888d-adc95534a62e) (Google, 21 June 2026). ACE GOOG-0001, 16 recommended semester hours. Course work covers troubleshooting, customer service, networking, operating systems, system administration, and security.
-- [Google Cybersecurity Professional Certificate](https://www.credly.com/badges/c6b35942-180b-4f22-803a-f05a1d0646ef) (Google, 21 June 2026). ACE GOOG-0007, 9 recommended semester hours. Course work covers Python, Linux, SQL, SIEM, and intrusion detection.
-- [Credly profile](https://www.credly.com/users/christ469131321654)
+- [ORCID 0009-0006-1011-8135](https://orcid.org/0009-0006-1011-8135)
+- [Credly](https://www.credly.com/users/christ469131321654)
+- [Google IT Support](https://www.credly.com/badges/de2e05bb-26d8-4066-888d-adc95534a62e)
+- [Google Cybersecurity](https://www.credly.com/badges/c6b35942-180b-4f22-803a-f05a1d0646ef)
 
 ## License
 
-MIT. See [LICENSE](LICENSE). Copyright 2026 Christopher Patrick Urias.
+MIT. See [LICENSE](LICENSE).
 
 ## Hardware this build targets
 

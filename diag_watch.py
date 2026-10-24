@@ -1,8 +1,5 @@
 #!/usr/bin/env python3
-"""Append one compact health line to diag.log every 10s. Stop: live_dj.stop-diag or diag.stop.
-
-Owner: Christopher Patrick Urias. MIT License.
-"""
+"""Append one compact health line to diag.log every 10s. Stop: live_dj.stop-diag or diag.stop."""
 from __future__ import annotations
 
 import json

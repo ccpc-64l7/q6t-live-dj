@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Q6T control from this PC.
 
-Owner: Christopher Patrick Urias <bigcityrooster@gmail.com>. MIT License.
+MIT License.
 
 HDMI-CEC cannot leave the GTX 1650 — NVIDIA does not expose pin 13.
 This tool still gives full PC-side control of the HDMI audio path and
