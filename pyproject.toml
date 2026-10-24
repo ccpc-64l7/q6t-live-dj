@@ -1,0 +1,26 @@
+[project]
+name = "q6t-live-dj"
+version = "1.0.0"
+description = "DJ Lab live mixer for the Samsung HW-Q60T. Free and open source."
+readme = "README.md"
+license = "MIT"
+license-files = ["LICENSE"]
+requires-python = ">=3.12"
+authors = [
+  { name = "Christopher Patrick Urias", email = "bigcityrooster@gmail.com" },
+]
+keywords = ["audio", "dj", "equalizer", "soundbar", "hw-q60t"]
+dependencies = [
+  "numpy==2.3.5",
+  "soundcard==0.4.6",
+  "comtypes==1.4.17",
+  "pycaw==20260927",
+]
+
+[project.urls]
+Homepage = "https://github.com/ccpc-64l7/q6t-live-dj"
+Release = "https://github.com/ccpc-64l7/q6t-live-dj/releases/tag/v1.0.0"
+Issues = "https://github.com/ccpc-64l7/q6t-live-dj/issues"
+
+[project.scripts]
+live-dj = "live_dj:main"

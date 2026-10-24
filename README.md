@@ -1,6 +1,10 @@
 # DJ Lab
 
+**Owner: Christopher Patrick Urias.** Free and open source under the [MIT License](LICENSE). Use it, copy it, change it, and share it at no cost.
+
 Live mixer for a Samsung HW-Q60T soundbar. Stereo playback goes out the HDMI port. `live_dj.py` listens on the WASAPI loopback, and Equalizer APO applies the filters. The window is three channel strips: SUB, BAR, and MASTER.
+
+Version 1.0.0. Release: https://github.com/ccpc-64l7/q6t-live-dj/releases/tag/v1.0.0
 
 The math is NumPy on the CPU. This program does not use the graphics card. There is no CUDA, OpenCL, or ROCm path.
 

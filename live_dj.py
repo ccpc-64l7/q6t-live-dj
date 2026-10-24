@@ -1,14 +1,19 @@
 #!/usr/bin/env python3
 """Live DJ auto-EQ — HDMI loopback → Equalizer APO, with an on-screen mixer.
 
-Written by Christopher Patrick Urias <bigcityrooster@gmail.com>.
-MIT License. See README.md for the Google certificates and ORCID.
+Owner: Christopher Patrick Urias <bigcityrooster@gmail.com>.
+Free and open source under the MIT License.
 
 python live_dj.py        # mixer window (default)
 python live_dj.py run    # headless
 python live_dj.py stop
 """
 from __future__ import annotations
+
+__author__ = "Christopher Patrick Urias"
+__email__ = "bigcityrooster@gmail.com"
+__license__ = "MIT"
+__version__ = "1.0.0"
 
 import argparse
 import ctypes

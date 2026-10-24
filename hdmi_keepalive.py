@@ -1,6 +1,8 @@
 #!/usr/bin/env python3
 """Hold a shared-mode WASAPI stream on EP-HDMI-RX so NVIDIA does not unplug HDMI audio.
 
+Owner: Christopher Patrick Urias. MIT License.
+
 Plays an inaudible 18 Hz tone well below the Q6T bar/sub. Restarts on device drop.
 """
 from __future__ import annotations
