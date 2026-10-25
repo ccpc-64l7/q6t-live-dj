@@ -19,6 +19,21 @@ The math is NumPy on the CPU. This program does not use the graphics card. There
 
 MIT. See [LICENSE](LICENSE).
 
+## VirusTotal
+
+Scanned 25 October 2026, 02:26 UTC. The file is the source archive of commit `fd62ba4`, made with `git archive`. SHA256 `0a15f30b11a234cb2fd849ee7905ce03b4765731e80281796235e23fbd70a0cb`.
+
+| Result | Engines |
+|---|---|
+| Malicious | 0 |
+| Suspicious | 0 |
+| Undetected | 64 |
+| Type not supported | 9 |
+| Failed | 1 |
+| Timed out | 1 |
+
+Report: https://www.virustotal.com/gui/file/0a15f30b11a234cb2fd849ee7905ce03b4765731e80281796235e23fbd70a0cb
+
 ## Hardware this build targets
 
 Samsung HW-Q60T/ZA and its wireless 6.5 inch sub (PS-WR65BB). No rear-speaker kit. The bar receives stereo PCM at 48 kHz and upmixes it. The wireless sub hands off around 120 Hz. The port is tuned near 47 Hz, with in-room output falling off below the upper 40s. **31.5 Hz is never boosted.**
